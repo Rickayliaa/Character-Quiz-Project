@@ -1,0 +1,16 @@
+body{ background-image: url("https://goingcrazywannago.com/wp-content/uploads/2014/02/spongebob-background.jpg");
+   text-align: center;
+}
+
+p {font-weight: bold;}
+
+.counter {
+    font-weight: bold;
+    color: green;
+}
+img { 
+    width: 450px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
